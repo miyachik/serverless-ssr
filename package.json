@@ -1,0 +1,15 @@
+{
+  "name": "serverless-ssr",
+  "version": "1.0.0",
+  "description": "s5(serverless serverside rendering)",
+  "scripts": {},
+  "author": "miyachik",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "^2.437.0",
+    "axios": "^0.18.0",
+    "jsdom": "^11.6.2",
+    "util": "^0.11.1"
+  },
+  "devDependencies": {}
+}
