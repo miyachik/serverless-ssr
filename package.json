@@ -11,5 +11,7 @@
     "jsdom": "^11.6.2",
     "util": "^0.11.1"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "prettier": "^1.16.4"
+  }
 }
